@@ -1,0 +1,28 @@
+{
+  "id": "se.precisiontech.msmarthomehomeybridge",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "MSmartHome Homey Bridge"
+  },
+  "description": {
+    "en": "Provide access to the MSmartHome to control your AC unit."
+  },
+  "category": [
+    "climate"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Jimmy Björklund",
+    "email": "jimmy@djurle.com"
+  }
+}
